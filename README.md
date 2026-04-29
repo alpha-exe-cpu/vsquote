@@ -28,6 +28,6 @@ An active internet connection is required to fetch the quotes. If you are offlin
 ## Source Code & Support
 
 * **Author:** Adrish Biswas | [adrish.tech](https://adrish.tech)
-Support at mailto:adrish@adrish.tech
+Support at [E-mail](mailto:adrish@adrish.tech)
 ---
 *Powered by [ZenQuotes API](https://zenquotes.io/)*
